@@ -1,10 +1,10 @@
 
 # Starter Web Project
 
-# Introduction
+## Introduction
 
-# Purpose
+## Purpose
 
-##Deployment 
+## Deployment 
 
-# How To Contribute
+## How To Contribute
